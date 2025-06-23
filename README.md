@@ -1,6 +1,6 @@
 # DHSnowFix
-A simple Fabric Minecraft mod that fixes snow layers rendering as full blocks in Distant Horizons. Please use "Tint With Avoided Blocks" in DH's config!\
-image placeholder\
+A simple Fabric Minecraft mod that fixes snow layers rendering as full blocks in Distant Horizons. Please use "Tint With Avoided Blocks" in DH's config, or you won't see any snow at all in LOD chunks!
+<img src="https://raw.githubusercontent.com/kabanod1m/DHSnowFix/refs/heads/master/readme-assets/comparison.png"/>
 (The bottom picture is with this mod installed, "Tint With Avoided Blocks" in DH's config is enabled)\
 \
 This mod seems to be needed at least as a hopefully temporary solution since over on Distant Horizons' issue tracker [the issue about this problem](https://gitlab.com/distant-horizons-team/distant-horizons/-/issues/947) was closed without resolution and seems to be a "won't fix" because it's "expected behavior".\
