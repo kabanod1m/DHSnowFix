@@ -1,0 +1,16 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "org.winglessbirds.dhsnowfix.mixin",
+  "compatibilityLevel": "JAVA_17",
+  "mixins": [
+    "SnowBlockMixin",
+    "BlocksMixin"
+  ],
+  "client": [
+    "client.BlockMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
