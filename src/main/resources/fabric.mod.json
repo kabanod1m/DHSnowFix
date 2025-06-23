@@ -3,7 +3,7 @@
   "id": "dhsnowfix",
   "version": "${version}",
   "name": "DHSnowFix",
-  "description": "Tints underlying blocks with snow instead of rendering full snow blocks in Distant Horizons",
+  "description": "Helps Distant Horizons tint underlying blocks with snow instead of rendering full snow blocks",
   "authors": [],
   "contact": {},
   "license": "MIT",
